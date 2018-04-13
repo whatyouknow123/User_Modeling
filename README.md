@@ -11,5 +11,5 @@
   3.  在Mysql中对数据进行分析
    <p>代码保存在basecharacter_usermodel.sql和statisticCharacter中
   
-  4.  将用户对应的groupid和teamid存入数据库
-   <p>代码保存在save_user_group中
+  4.  将用户对应的groupid和teamid存入数据
+    <p>代码保存在save_user_group中
