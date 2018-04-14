@@ -1,0 +1,85 @@
+Event type (%s)  "JOB_FINISH"  时间类型
+Version Number (%s) "8.3" 	LSF版本
+Event Time (%d) 1467686265 	记录事件的时间
+jobId (%d) 313295 任务id
+userId (%d) 603  用户id（Unix系统）
+options (%d) 33554482 任务进行的bit flag
+numProcessors (%d) 12 初始需求的cpu数目
+submitTime (%d) 1467684522 任务提交时间
+beginTime (%d) 0 任务预期起始时间
+termTime (%d) 0  任务预期结束时间
+startTime (%d) 1467685654 任务开始分配运行时间
+userName (%s) "liuxiaoh" 用户名
+queue (%s)  "test"  队列名
+resReq (%s) ""  用户需求的资源
+dependCond (%s) ""
+preExecCmd (%s) "" 预处理命令
+fromHost (%s) "tc4600" 提交任务的节点名
+cwd (%s) "test/B_lcao-lcaoinpw/pw-basis/test/lat_con.9.352622287"  工作目录
+inFile (%s) "" 输入文件
+outFile (%s) "%J.log" 输出文件
+errFile (%s) "%J.err" 错误输出文件
+jobFile (%s) "1467684522.313295"  任务脚本文件
+numAskedHosts (%d) 0 节点数目限制
+askedHosts (%s) 节点名限制，可以不记录
+numExHosts (%d) (%s) 12  运行需要的CPU数目
+execHosts (%s) "node208" "node208" "node208" "node208" "node208" "node208" "node208" "node208" "node208" "node208" "node208" "node208" 运行的节点列表
+jStatus (%d) 64 任务退出状态，64表示正常结束
+hostFactor (%f) 1.0  第一个运行的节点的CPU因数
+jobName (%s) ""  人物名称
+command (%s) "mpijob /home/quaninfo/liuxiaoh/code/abacus-v12-fix-bug/ABACUS.1.0.0/bin/ABACUS.mpi.1.0.0" 任务命令
+lsfRusage (%f) 资源使用情况
+	ru_utime (%f) 7253.115358 用户时间
+	ru_stime (%f) 10.774362 系统时间
+	ru_maxrss (%f) 152560 最大共享text size
+	ru_ixrss (%f) 0 
+    ru_ismrss (%f) -1 
+    ru_idrss (%f) 0 
+	ru_isrss (%f) 0 
+	ru_minflt (%f) 5097139 重复申请的页面数目
+	ru_majflt (%f) 94 页面错误数目
+	ru_nswap (%f) 0 
+	ru_inblock (%f) 0 
+    ru_oublock (%f) 30264 输出操作的块数
+	ru_ioch (%f) -1 
+	ru_msgsnd (%f) 0 
+	ru_msgrcv (%f) 0
+	ru_nsignals (%f) 0
+	ru_nvcsw (%f) 4510 
+	ru_nivcsw (%f) 736710
+	ru_exutime (%f) -1
+mailUser (%s) ""
+projectName (%s) "default" 项目名称
+exitStatus (%d) 0 任务退出状态
+maxNumProcessors (%d) 12 最大指定的CPU数目
+loginShell (%s) ""
+timeEvent (%s) ""
+idx (%d) 0
+maxRMem (%d) 1561600 最大保留内存使用
+maxRSwap (%d) 5464064 最大保留的虚拟内存使用
+inFileSpool (%s) ""
+commandSpool (%s)"" 
+rsvId %s ""
+sla (%s) ""
+exceptMask (%d) 0
+additionalInfo (%s) ""
+exitInfo (%d) 0
+warningAction (%s) ""
+warningTimePeriod (%d) -1
+chargedSAAP (%s) ""
+licenseProject (%s) ""
+app (%s) ""
+postExecCmd (%s) ""
+runtimeEstimation (%d) -1
+jobGroupName (%s) ""
+requeueEvalues (%s) ""
+options2 (%d) 6160
+resizeNotifyCmd (%s) ""
+lastResizeTime (%d) 1467685654 最后一次任务分配改变的时间
+rsvId %s ""
+jobDescription (%s) ""
+submitEXT
+	Num (%d) 0
+	key (%s) 0
+	value (%s) -1
+numHostRusage(%d) 0
